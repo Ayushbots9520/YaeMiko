@@ -10,31 +10,31 @@ class Config(object):
 
     # <================================================ REQUIRED ======================================================>
     # Telegram API configuration
-    API_ID = 6433468  # Get this value from my.telegram.org/apps
+    API_ID =  26327712  # Get this value from my.telegram.org/apps
     API_HASH = "7895dfd061f656367ccab30032"
 
     # Database configuration (PostgreSQL)
-    DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
+    DATABASE_URL = "ttttechnicalaks7:cHyZwKd4s5z4OXd4@cluster0.cmxxezj.mongodb.net/?retryWrites=true&w=majority"
 
     # Event logs chat ID and message dump chat ID
-    EVENT_LOGS = -1001629811868
-    MESSAGE_DUMP = -1001629811868
+    EVENT_LOGS = 1002229664892
+    MESSAGE_DUMP = 1002229664892
 
     # MongoDB configuration
     MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
 
     # Support chat and support ID
-    SUPPORT_CHAT = "ProjectCodeXSupport"
-    SUPPORT_ID = -1001629811868
+    SUPPORT_CHAT = "grouphelp1234"
+    SUPPORT_ID = -1002226487313
 
     # Database name
-    DB_NAME = "MikoDB"
+    DB_NAME = "piro bot"
 
     # Bot token
-    TOKEN = "2323839365:AAFgfdadqawlfdsM7slOa33eM_ghop"  # Get bot token from @BotFather on Telegram
+    TOKEN = "7233995484:AAHZTGABglhjF4bd5Ls341JKdCHWRYCtGeA"  # Get bot token from @BotFather on Telegram
 
     # Owner's Telegram user ID (Must be an integer)
-    OWNER_ID = 5907205317
+    OWNER_ID = 6324632627
     # <=======================================================================================================>
 
     # <================================================ OPTIONAL ======================================================>
